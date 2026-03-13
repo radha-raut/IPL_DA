@@ -154,9 +154,9 @@ The notebook includes a **live prediction widget** — enter any match situation
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**Radha Raut**
+- GitHub: [@radha-raut](https://github.com/radha-raut)
+- LinkedIn: [radha_raut](https://www.linkedin.com/in/radha-raut-4569ab290/)
 
 ---
 
